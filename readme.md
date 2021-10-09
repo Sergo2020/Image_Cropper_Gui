@@ -9,5 +9,6 @@ images by definition of source and destination folders.
 2. Setup environment according to requirement.txt
 3. Run gui.py for script or gui.exe as executable for Windows machines
 
+![alt text](images/screen_shot.png "Title")
 
     
